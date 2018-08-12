@@ -1,0 +1,5 @@
+functions
+gatsby-site/node_modules
+gatsby-site/.cache
+gatsby-site/gatsby-blog/.cache
+gatsby-site/gatsby-blog/node_modules
